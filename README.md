@@ -22,14 +22,16 @@
 
 ![name](https://badges.peiyuan.ch/leetcode/mhamadshebli/name?logo=leetcode)&nbsp;
 ![ranking](https://badges.peiyuan.ch/leetcode/mhamadshebli/ranking?logo=leetcode)
-![rate](https://badges.peiyuan.ch/leetcode/mhamadshebli/rate)&nbsp;
-![rate](https://badges.peiyuan.ch/leetcode/mhamadshebli/rate?difficulty=easy?logo=leetcode)&nbsp;
-![rate](https://badges.peiyuan.ch/leetcode/mhamadshebli/rate?difficulty=medium?logo=leetcode)&nbsp;
-![rate](https://badges.peiyuan.ch/leetcode/mhamadshebli/rate?difficulty=hard?logo=leetcode)
+
+![rate](https://badges.peiyuan.ch/leetcode/mhamadshebli/rate?logo=leetcode)&nbsp;
+![rate](https://badges.peiyuan.ch/leetcode/mhamadshebli/rate?logo=leetcode&difficulty=easy)&nbsp;
+![rate](https://badges.peiyuan.ch/leetcode/mhamadshebli/rate?logo=leetcode&difficulty=medium)&nbsp;
+![rate](https://badges.peiyuan.ch/leetcode/mhamadshebli/rate?logo=leetcode&difficulty=hard)
+
 ![solved](https://badges.peiyuan.ch/leetcode/mhamadshebli/solved?logo=leetcode)&nbsp;
-![solved](https://badges.peiyuan.ch/leetcode/mhamadshebli/solved?difficulty=easy?logo=leetcode)&nbsp;
-![solved](https://badges.peiyuan.ch/leetcode/mhamadshebli/solved?difficulty=medium?logo=leetcode)&nbsp;
-![solved](https://badges.peiyuan.ch/leetcode/mhamadshebli/solved?difficulty=hard?logo=leetcode)
+![solved](https://badges.peiyuan.ch/leetcode/mhamadshebli/solved?logo=leetcode&difficulty=easy)&nbsp;
+![solved](https://badges.peiyuan.ch/leetcode/mhamadshebli/solved?logo=leetcode&difficulty=medium)&nbsp;
+![solved](https://badges.peiyuan.ch/leetcode/mhamadshebli/solved?logo=leetcode&difficulty=hard)
 
 <img alt="Night Coding" src="assets/Night-Coding.gif" align="right"/>
 
