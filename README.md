@@ -18,6 +18,19 @@
 ✉️ &nbsp;You can shoot me an email at mhamadshebli@gmail.com ! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my <a href="assets/Shebli_CV.pdf" download>[Résumé]📄</a> for more details about me. I'm open to feedback and suggestions!
 
+### LeetCode
+
+![name](https://badges.peiyuan.ch/leetcode/mhamadshebli/name?logo=leetcode)&nbsp;
+![ranking](https://badges.peiyuan.ch/leetcode/mhamadshebli/ranking?logo=leetcode)
+![rate](https://badges.peiyuan.ch/leetcode/mhamadshebli/rate)&nbsp;
+![rate](https://badges.peiyuan.ch/leetcode/mhamadshebli/rate?difficulty=easy?logo=leetcode)&nbsp;
+![rate](https://badges.peiyuan.ch/leetcode/mhamadshebli/rate?difficulty=medium?logo=leetcode)&nbsp;
+![rate](https://badges.peiyuan.ch/leetcode/mhamadshebli/rate?difficulty=hard?logo=leetcode)
+![solved](https://badges.peiyuan.ch/leetcode/mhamadshebli/solved?logo=leetcode)&nbsp;
+![solved](https://badges.peiyuan.ch/leetcode/mhamadshebli/solved?difficulty=easy?logo=leetcode)&nbsp;
+![solved](https://badges.peiyuan.ch/leetcode/mhamadshebli/solved?difficulty=medium?logo=leetcode)&nbsp;
+![solved](https://badges.peiyuan.ch/leetcode/mhamadshebli/solved?difficulty=hard?logo=leetcode)
+
 <img alt="Night Coding" src="assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
