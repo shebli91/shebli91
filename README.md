@@ -1,4 +1,4 @@
-![Mohammad Shebli Singh Banner](<img alt="banner" src="./../assets/banner.png/ align="center">)
+![Mohammad Shebli Singh Banner](<img alt="banner" src="./../assets/banner.png align="center"/>)
 
 <img alt="wave" src="./assets/Hand-Wave.gif" width='40' align="left"/><h2>Hey there! I'm Mohammad </h2>
 
@@ -30,9 +30,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-<br>
-<br>
 ### ⚙️ &nbsp;GitHub Analytics
+
+<br>
+<br>
 <br>
 <p align="center">
 <a href="https://github.com/shebli91">
