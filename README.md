@@ -13,7 +13,7 @@
 💡 &nbsp;My goal is to be a FrontEnd developer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm on track for learning more about JavaScript,React, Systems Design, and a lot more technologies .\
-✍️ &nbsp;In my free time, I pursue Reading , and Playing football as hobbies/side hustles.\
+✍️ &nbsp;In my free time, I pursue Reading , and Playing football as hobbies.\
 💬 &nbsp;Feel free to reach out to me for anything , or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at mhamadshebli@gmail.com ! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my <a href="assets/Shebli_CV.pdf" download>[Résumé]📄</a> for more details about me. I'm open to feedback and suggestions!
