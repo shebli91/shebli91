@@ -4,7 +4,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Mohammad Shebli -->
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-184-blue)
+![Profile Views ](https://vbr.wocr.tk/badge?page_id=shebli91.shebli91&color=0576b7)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
