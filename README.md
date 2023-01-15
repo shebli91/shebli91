@@ -10,7 +10,7 @@
 💡 &nbsp;I decided to make a career path shift towards the Programming world, so i left job at Cairo Amman Bank at oct-2022, after 8 years of working as a Corporate Credit Officer.\
 💡 &nbsp;My goal is to be a FrontEnd developer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm on track for learning more about JavaScript,Reac, Systems Design, and a lot more technologies .\
+🎓 &nbsp;I'm on track for learning more about JavaScript,React, Systems Design, and a lot more technologies .\
 ✍️ &nbsp;In my free time, I pursue Reading , and Playing football as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for anything , or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at mhamadshebli@gmail.com ! I'll try to respond as soon as I can.\
