@@ -1,4 +1,4 @@
-![Mohammad Shebli Singh Banner](<img alt="banner" src="./../assets/banner.png align="center"/>)
+![Mohammad Shebli Singh Banner](<img alt="banner" src="./../assets/banner.png" align="center"/>)
 
 <img alt="wave" src="./assets/Hand-Wave.gif" width='40' align="left"/><h2>Hey there! I'm Mohammad </h2>
 
@@ -35,7 +35,7 @@
 <br>
 <br>
 <br>
-<p align="center">
+<p align="left">
 <a href="https://github.com/shebli91">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shebli91&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shebli91&layout=compact&langs_count=8&theme=algolia"/>
