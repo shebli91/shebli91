@@ -1,4 +1,4 @@
-![Mohammad Shebli Singh Banner](<img alt="banner" src="./../assets/banner.png/>)
+![Mohammad Shebli Singh Banner](<center><img alt="banner" src="./../assets/banner.png/></center>)
 
 <img alt="wave" src="./assets/Hand-Wave.gif" width='40' align="left"/><h2>Hey there! I'm Mohammad </h2>
 
