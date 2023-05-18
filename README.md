@@ -4,7 +4,8 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Mohammad Shebli -->
 
-![Profile Views ](https://vbr.wocr.tk/badge?page_id=shebli91.shebli91&color=0576b7)
+![Profile Views](https://komarev.com/ghpvc/?username=shebli91&color=blue&style=plastic)
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
