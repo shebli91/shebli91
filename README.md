@@ -2,22 +2,19 @@
 
 <img alt="wave" src="./assets/Hand-Wave.gif" width='40' align="left"/><h2>Hey there! I'm Mohammad </h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Mohammad Shebli -->
-
 ![Profile Views](https://komarev.com/ghpvc/?username=shebli91&color=blue&style=plastic)
-
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I've graduated with a bachelor degree in business administration from AL-Najah National University.\
-💡 &nbsp;I decided to make a career path shift towards the Programming world, so i left job at Cairo Amman Bank at oct-2022, after 8 years of working as a Corporate Credit Officer.\
-💡 &nbsp;My goal is to be a FrontEnd developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm on track for learning more about JavaScript,React, Systems Design, and a lot more technologies .\
-✍️ &nbsp;In my free time, I pursue Reading , and Playing football as hobbies.\
-💬 &nbsp;Feel free to reach out to me for anything , or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at mhamadshebli@gmail.com ! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my <a href="assets/Shebli_CV.pdf" download>[Résumé]📄</a> for more details about me. I'm open to feedback and suggestions!
+💡 &nbsp;I've graduated with a bachelor degree in Business Administration from AL-Najah National University.\
+💡 &nbsp;Currently working as an **Accounting Support Specialist at Restaurant365**, where I bridge my accounting background with technology to support and optimize financial systems.\
+💡 &nbsp;I'm expanding my technical skills in **Backend Development**, focusing on **Node.js, Express, and database management**, aiming to build efficient, scalable, and accounting-focused applications.\
+💡 &nbsp;Previously, I worked for **8 years as a Corporate Credit Officer at Cairo Amman Bank**, which helped me build strong analytical and problem-solving skills.\
+🎯 &nbsp;My current focus is to combine my finance expertise with modern software development to create smarter business and accounting solutions.\
+✍️ &nbsp;In my free time, I enjoy Reading, Playing football, and exploring new technologies.\
+💬 &nbsp;Feel free to reach out to me for collaboration, learning exchanges, or just a tech-related chat.\
+✉️ &nbsp;You can shoot me an email at **mhamadshebli@gmail.com** — I’ll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my <a href="assets/Mohammad_Shebli_Resume.pdf" download>[Résumé]📄</a> for more details about me. I'm open to feedback and suggestions!
 
 ### LeetCode
 
