@@ -14,7 +14,7 @@
 ✍️ &nbsp;In my free time, I enjoy Reading, Playing football, and exploring new technologies.\
 💬 &nbsp;Feel free to reach out to me for collaboration, learning exchanges, or just a tech-related chat.\
 ✉️ &nbsp;You can shoot me an email at **mhamadshebli@gmail.com** — I’ll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my <a href="assets/MMohammad Shebli Resume.pdf" download>[Résumé]📄</a> for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my <a href="assets/Mohammad_Shebli_Resume.pdf" download>[Résumé]📄</a> for more details about me. I'm open to feedback and suggestions!
 
 ### LeetCode
 
